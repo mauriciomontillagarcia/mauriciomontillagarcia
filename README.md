@@ -1,4 +1,8 @@
-👋 Welcome to my project portfolio!
+👋 Welcome to my GitHub! 
+
+You will find annexes, code, and data for my professional data analysis projects. You can visit my portfolio here: Mauricio Montilla Portfolio.
+
+Regarding the rest of my repositories, they are personal application development projects, which I consider a hobby.
 
 **Who am I?**
 
