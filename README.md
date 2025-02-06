@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub! 
 
-In this GitHub, you will find code, datasets, and supplementary materials related to my professional data analysis projects. Click on [**Mauricio Montilla Portfolio**](https://pumped-yttrium-b80.notion.site/Mauricio-Montilla-Portfolio-d3ca9969abe6483eb177f8e269a4ec75?pvs=74) to explore my full portfolio. (I'm in the process of translating all my projects into English. If you find something in Spanish, my native language, please keep that in mind)
+In this GitHub, you will find code, datasets, and supplementary materials related to my professional data analysis projects. Click on [**Mauricio Montilla Portfolio**](https://pumped-yttrium-b80.notion.site/Mauricio-Montilla-Portfolio-d3ca9969abe6483eb177f8e269a4ec75?pvs=74) to explore my full portfolio. I'm in the process of translating all my projects into English. If you find something in Spanish, my native language, please keep that in mind.
 
 The rest of my repositories are personal projects focused on app development, something I enjoy as a hobby. 
 
