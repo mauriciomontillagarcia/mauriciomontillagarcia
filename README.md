@@ -8,8 +8,6 @@ The rest of my repositories are personal projects focused on app development, so
 
 My name is Mauricio Montilla, and here is a brief overview of my background:
 
-🙋🏽‍♂️ My career has focused on data analysis and Business Intelligence consulting, leading end-to-end projects—from data extraction and transformation (ETL), to building dashboards and automating processes.
+🧑🏽‍💻 Data Analyst with experience in designing ETL processes, automating data workflows, and developing interactive dashboards in Power BI, Looker Studio, and Tableau. Skilled in Python and SQL, with a strong background in databases to turn raw data into strategic insights.
 
-📈 I've worked in both startups and large companies, which has given me the ability to adapt to different work styles and project scopes. In every project, I aim to structure data in a way that is clear, reliable, and valuable for decision-making.
-
-🧑🏽‍💻 On the technical side, I work with tools like SQL, Python, Power BI, and Looker Studio. I also have experience implementing CRMs (such as HubSpot and Salesforce) and improving internal workflows through data-driven solutions.
+🙋🏽‍♂️ I have worked in both startups and large companies, integrating diverse data sources, improving data quality, and supporting business decision-making. My focus is on transforming data into a valuable asset that drives efficiency, traceability, and growth.
